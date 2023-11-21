@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+<body>
+    <div id="app">
+        <li v-for="item in warframes">
+            <h2>
+                {{ item.name }}
+            </h2>
+            <img v-bind:src="'/data/images/' + item.image" alt="{{ item.name }}">
+            <div>
+                Built: {{ item.built }}
+                Owned: {{ item.owned }}
+                Mastered: {{ item.mastered }}
+            </div>
+        </li>
+
+    </div>
+
+    <script>
+      const { createApp } = Vue
+    
+      createApp({
+        data() {
+          return {
+            message: 'Hello Vue!',
+            warframes: [],
+          }
+        },
+        created() {
+        fetch('/data/warframes.json').then(response => response.json())
+            .then((data) => this.warframes = data);
+        }
+      }).mount('#app')
+    </script>
+</body>
+</html>
