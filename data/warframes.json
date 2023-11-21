@@ -1,0 +1,488 @@
+[
+    {
+        "id": 0,
+        "name": "Ash",
+        "image": "ash.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/ash.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 1,
+        "name": "Atlas",
+        "image": "atlas.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/atlas.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 2,
+        "name": "Banshee",
+        "image": "banshee.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/banshee.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 3,
+        "name": "Baruuk",
+        "image": "baruuk.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/baruuk.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 4,
+        "name": "Caliban",
+        "image": "caliban.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/caliban.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 5,
+        "name": "Chroma",
+        "image": "chroma.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/chroma.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 6,
+        "name": "Citrine",
+        "image": "citrine.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/citrine.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 7,
+        "name": "Dagath",
+        "image": "dagath.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/dagath.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 8,
+        "name": "Ember",
+        "image": "ember.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/ember.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 9,
+        "name": "Equinox",
+        "image": "equinox.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/equinox.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 10,
+        "name": "Excalibur",
+        "image": "excalibur.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/excalibur.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 11,
+        "name": "Frost",
+        "image": "frost.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/frost.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 12,
+        "name": "Gara",
+        "image": "gara.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/gara.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 13,
+        "name": "Garuda",
+        "image": "garuda.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/garuda.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 14,
+        "name": "Gauss",
+        "image": "gauss.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/gauss.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 15,
+        "name": "Grendel",
+        "image": "grendel.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/grendel.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 16,
+        "name": "Gyre",
+        "image": "gyre.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/gyre.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 17,
+        "name": "Harrow",
+        "image": "harrow.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/harrow.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 18,
+        "name": "Hildryn",
+        "image": "hildryn.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/hildryn.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 19,
+        "name": "Hydroid",
+        "image": "hydroid.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/hydroid.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 20,
+        "name": "Inaros",
+        "image": "inaros.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/inaros.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 21,
+        "name": "Ivara",
+        "image": "ivara.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/ivara.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 22,
+        "name": "Khora",
+        "image": "khora.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/khora.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 23,
+        "name": "Kullervo",
+        "image": "kullervo.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/kullervo.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 24,
+        "name": "Lavos",
+        "image": "lavos.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/lavos.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 25,
+        "name": "Limbo",
+        "image": "limbo.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/limbo.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 26,
+        "name": "Loki",
+        "image": "loki.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/loki.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 27,
+        "name": "Mag",
+        "image": "mag.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/mag.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 28,
+        "name": "Mesa",
+        "image": "mesa.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/mesa.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 29,
+        "name": "Mirage",
+        "image": "mirage.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/mirage.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 30,
+        "name": "Nekros",
+        "image": "nekros.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/nekros.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 31,
+        "name": "Nezha",
+        "image": "nezha.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/nezha.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 32,
+        "name": "Nidus",
+        "image": "nidus.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/nidus.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 33,
+        "name": "Nova",
+        "image": "nova.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/nova.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 34,
+        "name": "Nyx",
+        "image": "nyx.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/nyx.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 35,
+        "name": "Oberon",
+        "image": "oberon.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/oberon.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 36,
+        "name": "Octavia",
+        "image": "octavia.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/octavia.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 37,
+        "name": "Protea",
+        "image": "protea.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/protea.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 38,
+        "name": "Revenant",
+        "image": "revenant.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/revenant.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 39,
+        "name": "Rhino",
+        "image": "rhino.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/rhino.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 40,
+        "name": "Saryn",
+        "image": "saryn.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/saryn.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 41,
+        "name": "Sevagoth",
+        "image": "sevagoth.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/sevagoth.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 42,
+        "name": "Styanax",
+        "image": "styanax.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/styanax.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 43,
+        "name": "Titania",
+        "image": "titania.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/titania.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 44,
+        "name": "Trinity",
+        "image": "trinity.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/trinity.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 45,
+        "name": "Valkyr",
+        "image": "valkyr.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/valkyr.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 46,
+        "name": "Vauban",
+        "image": "vauban.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/vauban.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 47,
+        "name": "Volt",
+        "image": "volt.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/volt.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 48,
+        "name": "Voruna",
+        "image": "voruna.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/voruna.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 49,
+        "name": "Wisp",
+        "image": "wisp.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/wisp.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 50,
+        "name": "Wukong",
+        "image": "wukong.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/wukong.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 51,
+        "name": "Xaku",
+        "image": "xaku.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/xaku.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 52,
+        "name": "Yareli",
+        "image": "yareli.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/yareli.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    },
+    {
+        "id": 53,
+        "name": "Zephyr",
+        "image": "zephyr.png",
+        "img_url": "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/images/warframes/thumbnails/zephyr.png",
+        "built": 0,
+        "owned": 0,
+        "mastered": 0
+    }
+]
